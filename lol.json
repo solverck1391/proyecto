@@ -1,0 +1,46 @@
+{
+  "Empresa" : "Albatros Continental Gold",
+  "homeTown" : "Bogota",
+  "formed" : 2018,
+  "secretBase" : "137",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Inventario",
+      "Producto1" : Billetes Dorados,
+      "Información" : [
+        "100 existentes",
+        "10.000$ unidad",
+        "10.000.000$ caja"
+        ]
+      "Producto2" : "Billetes Azules,
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
